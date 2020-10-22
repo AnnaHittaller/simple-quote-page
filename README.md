@@ -1,2 +1,2 @@
 # simple-quote-page
-A simpla page with a motivational quote.
+A simple page with a motivational quote.
