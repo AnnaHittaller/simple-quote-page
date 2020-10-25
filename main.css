@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url(assets/freedom.jpg);
+  background-image: url('assets/freedom.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
