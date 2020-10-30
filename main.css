@@ -28,3 +28,15 @@ cite {
   font-size: 2vw;
   font-family: 'Crimson Text', serif;
 }
+
+@media only screen and (max-width: 768px) {
+  
+  p {
+    margin-top: 2em;
+  }
+  
+  cite {
+    font-size: 1.125em;
+  }
+  
+}
